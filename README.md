@@ -9,8 +9,6 @@
   - [Threat Intelligence Findings](#threat-intelligence-findings)
   - [Dark Web Analysis](#dark-web-analysis)
   - [Risk Mitigation](#risk-mitigation)
-- [Contributions](#contributions)
-- [Contact](#contact)
 
 ## Overview
 This project encompasses a comprehensive analysis of various cybersecurity threats and mitigation strategies. The analysis includes an exploration of the current threat landscape, the MITRE ATT&CK framework, threat intelligence findings, and dark web analysis. Additionally, it outlines risk mitigation techniques to safeguard against these threats.
@@ -42,8 +40,3 @@ This project encompasses a comprehensive analysis of various cybersecurity threa
 - **File:** `Risk Mitigation.pptx`
 - **Description:** A PowerPoint presentation outlining various risk mitigation strategies to protect against identified threats.
 
-## Contributions
-All files were added via upload 3 months ago. The project involved researching and compiling information from various sources to provide a thorough understanding of the current cybersecurity landscape.
-
-## Contact
-For any questions or further information, please contact [Your Name] at [Your Email].
